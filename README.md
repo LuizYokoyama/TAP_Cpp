@@ -1,2 +1,5 @@
-# TAP_Cpp
-Exercícios de Tópicos de Programação avançada em C++
+# Maratona de programação em C++
+
+Exercícios da disciplina Tópicos de Programação avançada resolvidos em C++
+
+
